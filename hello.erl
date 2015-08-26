@@ -1,3 +1,4 @@
+%% Under GPL
 -module(hello).
 
 -export([hello/0,
